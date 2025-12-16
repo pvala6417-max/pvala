@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **Next.js, GSAP & MERN projects**
 - 🌱 Learning **modern frontend animation & full-stack scalability**
-- 💬 Ask me about **React, Next.js, MongoDB, Express, GSAP**
+- 💬 Ask me about **React, Next.js, MongoDB, Express, **
 - 📫 Reach me at: **your-email@gmail.com**
 - ⚡ Fun fact: *I animate pixels & caffeinate bugs* ☕🐞
 
