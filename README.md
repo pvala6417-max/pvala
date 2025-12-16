@@ -26,4 +26,4 @@
 ## 🌐 Let's Connect
 - 💼 LinkedIn: https://linkedin.com/in/yourusername
 - 🌍 Portfolio: https://yourportfolio.com
-- 📧 Email: 
+- 📧 Email: pvala6417@gmail.com 
