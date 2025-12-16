@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github,vscode,)
 
 ---
 
