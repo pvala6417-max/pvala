@@ -1,4 +1,4 @@
- ## Hi 👋, I'm Satyam Navdiya
+ ## Hi 👋, I'm pvala6417-max
 
 🚀 Full Stack Developer | MERN | Next.js  
 🏢 Working at Codespire, Surat  
@@ -25,4 +25,4 @@
 ## 🌐 Let's Connect
 - 💼 LinkedIn: https://linkedin.com/in/yourusername
 - 🌍 Portfolio: https://yourportfolio.com
-- 📧 Email: your-email@gmail.com
+- 📧 Email: 
